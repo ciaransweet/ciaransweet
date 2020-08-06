@@ -1,4 +1,4 @@
-![Me talking about Mangroves](./mangroves.jpg)
+![Me talking about Mangroves](https://github.com/ciaranevans/ciaranevans/blob/master/mangroves.jpg?raw=true)
 
 ## Who am I?
 Hi there! My name's Ciaran (_That's me_ ☝️)
