@@ -1,16 +1,18 @@
-### Hi there 👋
+![Me talking about Mangroves](./mangroves.jpg)
 
-<!--
-**ciaranevans/ciaranevans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+Hi there! My name's Ciaran (_That's me_ ☝️)
 
-Here are some ideas to get you started:
+I'm a Cloud Engineer based in the UK 🇬🇧 (I ❤️ the 🇪🇺 and miss them)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What do I do?
+Currently I build serverless awesomeness in AWS [@ DevelopmentSeed](https://developmentseed.org) to help people make the most of their Earth Observation data! 🛰🌍
+
+## What have you done?
+
+Previously I worked [@ UKHO](https://www.admiralty.co.uk/) where I created the [Global Mangrove coverage dataset](https://medium.com/uk-hydrographic-office/creating-a-global-dataset-using-serverless-applications-and-deep-learning-c4e267fa810c?source=friends_link&sk=37ab5a146ad07c93afa63382fa44ad67), scaled deep learning models across the world, processed global shipping traffic, automated tidal analysis, and produced a Hadoop-based geospatial data engine.
+
+# Where to find me:
+* ✍️ [Medium](https://medium.com/@ciaranevans)
+* 🦜 [Twitter](https://twitter.com/Ciaran_Evans)
+* 🧳 [LinkedIn](https://www.linkedin.com/in/ciaranjevans/)
