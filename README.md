@@ -6,6 +6,7 @@ I'm an Engineer based in the UK 🇬🇧 (_I ❤️ the 🇪🇺 and miss them_)
 I've just joined [Reliably](https://reliably.com/) where I'll be maintaining [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit)!
 
 ![Moss from the IT Crowd infront of a fire](https://media.giphy.com/media/dbtDDSvWErdf2/giphy.gif)
+
 _Live scenes of me Chaos Engineering - 2021_
 
 Previously I built serverless awesomeness in AWS @ [Development Seed](https://developmentseed.org) to help people like [NASA](https://github.com/NASA-IMPACT/hls-sentinel2-downloader-serverless) and [Pangeo Forge](https://github.com/ciaranevans?from=2021-07-01&to=2021-07-12&org=pangeo-forge&year_list=1) make the most of their Earth Observation data! 🛰🌍
