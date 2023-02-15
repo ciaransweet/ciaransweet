@@ -3,9 +3,9 @@
 Hi there! My name's Ciaran (_That's me_ ☝️)
 I'm an Engineer based in Bristol in the UK 🇬🇧
 
-Right about now I'm a Technical Lead @ [Xydus](https://xydus.com/) - You can find my work GitHub [here](https://github.com/ciaranevans-xydus).
+Right about now I'm a Backend Engineer @ [Snowfall](https://snowfalltravel.com/)
 
-Previously I've worked @ [Reliably](https://reliably.com/), [Development Seed](https://developmentseed.org), and the [UKHO](https://www.admiralty.co.uk/) doing product, data, and general software engineering!
+Previously I've worked @ [Xydus](https://xydus.com/), [Reliably](https://reliably.com/), [Development Seed](https://developmentseed.org), and the [UKHO](https://www.admiralty.co.uk/) doing product, data, and general software engineering!
 
 Some cool projects I've personally worked on include:
 
