@@ -23,6 +23,5 @@ Some of my tech passions are:
 
 You can see/hear/find me on:
 
-* 🦜 [Twitter](https://twitter.com/Ciaran_Evans)
-* 🧳 [LinkedIn](https://www.linkedin.com/in/ciaranjevans/)
+* 🧳 [LinkedIn](https://www.linkedin.com/in/ciaransweet/)
 * ✍️ [Medium](https://medium.com/@ciaranevans)
