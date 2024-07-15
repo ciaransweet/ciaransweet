@@ -1,11 +1,11 @@
-![Me talking about Mangroves](https://github.com/ciaranevans/ciaranevans/blob/main/mangroves.jpg?raw=true)
+![Me talking about Mangroves](https://github.com/ciaransweet/ciaransweet/blob/main/mangroves.jpg?raw=true)
 
 Hi there! My name's Ciaran (_That's me_ ☝️)
 I'm an Engineer based in Bristol in the UK 🇬🇧
 
-Right about now I'm an Engineering Manager @ [Snowfall](https://snowfalltravel.com/)
+Right about now I'm a Cloud Engineer @ [Development Seed](https://developmentseed.org/)
 
-Previously I've worked @ [Xydus](https://xydus.com/), [Reliably](https://reliably.com/), [Development Seed](https://developmentseed.org), and the [UKHO](https://www.admiralty.co.uk/) doing product, data, and general software engineering!
+Previously I've worked at a few startups: building door-to-door travel booking tools, automatic right to work checks for the 🇬🇧 and 🇺🇸, and tooling for SRE teams to measure their systems reliability. I've also worked at the [UKHO](https://www.admiralty.co.uk/) doing lots of big data, geospatial data wrangling, and deploying deep learning models across the globe!
 
 Some cool projects I've personally worked on include:
 
@@ -24,4 +24,4 @@ Some of my tech passions are:
 You can see/hear/find me on:
 
 * 🧳 [LinkedIn](https://www.linkedin.com/in/ciaransweet/)
-* ✍️ [Medium](https://medium.com/@ciaranevans)
+* ✍️ [Medium](https://medium.com/@ciaransweet)
